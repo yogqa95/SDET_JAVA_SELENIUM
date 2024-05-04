@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/GARJE/IdeaProjects/Automation_Project_2024/src/test/java/testCases">
+        <classes>
+            <class name="testCases.LoginTest"/>
+            <class name="testCases.ShopTest"></class>
+            <class name="testCases.NewsLetterTest"></class>
+            <class name="testCases.SearchTest"></class>
+            <class name="testCases.SubscriptionsTest"></class>
+            <class name="testCases.WholeSaleTest"></class>
+        </classes>
+    </test>
+</suite>
