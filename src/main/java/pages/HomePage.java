@@ -10,7 +10,7 @@ public class HomePage extends WebTestBase {
     @FindBy(xpath = "//a[@class='user-controls__ul__li__a']")
     WebElement loginUserBtn;
 
-    @FindBy(xpath = "//a[@class='newsletter___close newsletter__trigger']")
+    @FindBy(xpath = "//a[@class='newsletter_close newsletter__trigger']")
     WebElement firstAd;
 
     public HomePage()
